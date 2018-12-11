@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CertificateInspector</string>
+    <string name="sample_certificate_serial_number">Serial Number: 1595349088 (0x5f171860)</string>
+    <string name="sample_certificate_public_key">Public
+        Key\n00:8a:ea:ff:b9:d2:ed:7a:cc:36:75:3d:63:3f:70:14:8c:e2:1e:7c:e1:19:67:b1:3e:fe:ad:82:7c:48:2a:3f:09:c1:33:27:f7:90:20:be:cf:c7:c9:3a:81:15:80:a3:f6:0c:0d:0e:79:9b:49:0b:69:e0:4a:3c:fc:8b:e4:b7:dc:fd:65:2f:f2:97:da:cc:29:17:5e:61:f8:a6:55:9d:92:a5:66:9f:2d:0c:73:d8:7f:31:2f:a3:a7:70:95:ed:0f:e1:58:a7:f6:a3:e3:46:38:8a:66:c4:c3:65:35:b6:bc:e2:1d:ca:45:8d:a7:dc:c4:95:30:ac:dd:03:ff:18:b4:28:2b:d2:d9:19:c2:b5:dd:3e:e1:b5:87:6c:23:9d:cb:46:ea:a2:56:bd:c1:f7:f1:e5:fe:50:b8:0f:e9:a2:fc:97:80:5b:9b:7f:c6:3e:d2:f5:9a:b5:20:13:a4:b9:1a:01:11:17:37:6f:1b:85:19:8f:7d:16:ae:15:e5:68:a5:63:9c:0d:f9:8b:f1:d0:01:05:09:b2:0e:25:ee:83:87:dd:6c:f0:e6:f1:c9:f4:04:ca:e0:00:58:45:04:ea:7f:b4:c8:ca:42:b0:6b:23:a2:34:b5:b2:da:96:25:2a:f8:b2:c5:ea:25:9f:df:5e:41:8e:54:b3:9c:ec:43:d3:ad
+    </string>
+    <string name="sample_certificate_issuer">Issuer: C=US, O=Android, CN=Android Debug</string>
+    <string name="sample_certificate_validity">Validity \nNot Before: May 17 14:38:48 2016 GMT \nNot After : May 10 14:38:48
+        2046 GMT
+    </string>
+    <string name="sample_certificate_algorithm">sha256WithRSAEncryption</string>
+    <string name="sample_certificate_raw">Raw
+        Certificate\n4d:39:d3:84:69:e7:fb:a9:55:88:86:16:46:89:f4:99:af:50:65:c8:04:79:2f:2b:42:46:44:05:5f:04:9d:d0:d4:8a:1f:8c:cd:75:d5:a1:57:8d:a8:ae:44:58:33:a8:61:42:f1:a3:bd:b4:03:7a:d7:c9:2c:a1:76:f6:c8:63:0c:5a:c3:f0:3f:c2:c1:66:69:14:38:6c:ab:49:fe:fb:d7:01:d8:09:c3:80:d7:64:36:4b:18:b2:71:5d:3b:c5:1b:89:a7:87:c6:ec:d3:a6:a0:d4:51:34:ff:8a:66:82:b9:51:d8:61:58:3e:af:39:10:e5:3e:62:39:7b:d5:77:72:f1:42:0c:3b:3a:f9:72:cc:0f:e6:1b:72:85:1c:1a:3a:cf:7c:7f:be:fa:91:dc:e9:56:e3:46:20:52:fb:12:67:7e:4c:89:af:dc:e5:17:7b:7b:81:45:13:ba:c7:fb:50:04:dd:1a:f4:29:fa:1e:28:53:72:4e:64:37:29:4d:19:73:a7:6c:e5:63:34:da:9e:83:2e:d8:6e:b2:ef:62:8a:11:7b:b4:ac:d2:33:42:98:eb:cf:55:b5:d4:d9:89:79:23:69:45:9b:58:59:b5:49:4c:f4:45:e9:6a:47:e1:08:e8:aa:c4:b4:27:b4:f6:53:f4:31:3d:bc:43:61:84
+    </string>
+    <string name="sample_certificate_subject">Subject: C=US, O=Android, CN=Android Debug</string>
+</resources>
